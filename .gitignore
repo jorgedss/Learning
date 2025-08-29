@@ -1,0 +1,10 @@
+# Ignorar arquivos Python compilados
+**/*.pyc
+**/__pycache__/
+
+# Ignorar arquivos de node_modules em qualquer projeto Vue
+**/node_modules/
+
+# Ignorar ambientes virtuais em qualquer projeto Python
+**/env/
+.venv
